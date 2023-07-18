@@ -27,3 +27,7 @@ options:
                         Использовать протокол TLS при подключении
 ```
 
+3. Сборка
+```bash
+python setup.py build
+```
